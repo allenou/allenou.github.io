@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[74],{430:function(t,e,s){"use strict";s.r(e);var n=s(42),l=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("ul",[e("li",[this._v("promise 数组，后一个接收前一个的值（2019-4-8）")])])])}),[],!1,null,null,null);e.default=l.exports}}]);
