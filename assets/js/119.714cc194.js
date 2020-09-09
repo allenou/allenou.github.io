@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[119],{473:function(t,e,n){"use strict";n.r(e);var s=n(42),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("竞争力决定了薪资，会框架的人比比皆是，要想竞争力强过别人就要会别人不会的东西。")])])}),[],!1,null,null,null);e.default=l.exports}}]);
